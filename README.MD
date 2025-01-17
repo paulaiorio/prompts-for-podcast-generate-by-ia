@@ -2,6 +2,8 @@
 
  > ℹ️ **NOTE:** Este é o podcast entregue como projeto do Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
+Meu Podcast se chama "Posso Ajudar?" e fala sobre os 5 principais erros no atendimento ao cliente.
+
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
@@ -17,3 +19,5 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Canva Para gerar capa
+
+Espero que gostem! :) 
